@@ -7,7 +7,7 @@ No desenvolvimento deste programa poderá utilizar instruções de controlo de f
 
 ## Descrição do problema
 O programa recebe um caracter e 6 inteiros. O caracter serve para escolher qual o output a apresentar:
-- 'a' - idadade
+- 'a' - idade
 - 'z' - signo do zodiaco
 - 'r' - informação sobre se está apto para trabalhar ou elegível para a reforma
 - 't' - toda a informação
